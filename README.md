@@ -1,5 +1,5 @@
-# BIT222-FAITH-MALINGIp-Portfolio-
-Malingi Faith Pendo - Web Developer Portfolio
+# BIT222-FAITH-MALINGI-Portfolio-
+
 
 Welcome to my web developer portfolio! This repository showcases my skills, projects, and experience as a web developer.
 
